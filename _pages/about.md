@@ -1,8 +1,25 @@
 ---
-permalink: /about/
-title: "About"
+permalink: /about me/
+title: "About Me"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+An aspiring data analyst with a degree in Electronics Engineering from the Technological Institute of the Philippines - Quezon City with a background in Python, SQL, R, and Tableau. Highly analytical, motivated, and skilled at solving problems. Can work well both independently and in a team.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+## Language & Tools 👩‍💻
+- Python, SQL, R, C, MATLAB, HTML
+- Tableau, BigQuery, RStudio, JupyterLab, Jupyter Notebook
+- NumPy, pandas, Matplotlib, Seaborn, Keras, TensorFlow
+
+## Find me on 🌐
+- LinkedIn: [Mary Majella Imperial](https://www.linkedin.com/in/majellaimperial/)
+- GitHub: [@singjellarity](https://github.com/singjellarity)
+- Tableau: [Majella Imperial](https://public.tableau.com/app/profile/majella.imperial/vizzes)
+- Kaggle: [Majella Imperial](https://www.kaggle.com/majellaimperial)
+
+Send me an email at
+majella.imperial@gmail.com
+
+## Favorite quotes: 🌹
+- "Ars longa, vita brevis." --Hippocrates. (Translated from Latin, "Skilfulness takes time and life is short."
+- "The rose is lovely, forget the thorns."
+- "Mind over matter."
