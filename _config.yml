@@ -59,7 +59,7 @@ plugins:
 author:
   name   : "Majella Imperial"
   avatar : "https://avatars.githubusercontent.com/u/89121157?v=4"
-  bio    : "An aspiring data analyst with a degree in Electronics Engineering with a background in Python, SQL, R, and Tableau."
+  bio    : "An aspiring data analyst with a degree in Electronics Engineering. Experienced in Python, SQL, R, and Tableau."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
