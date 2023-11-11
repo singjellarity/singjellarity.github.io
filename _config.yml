@@ -65,7 +65,7 @@ author:
       icon: "fas fa-fw fa-link"
       url: "https://singjellarity.github.io/"
     - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
+      icon: "fab fa-fw fa-linkedin" 
       url: "https://www.linkedin.com/in/majellaimperial/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
