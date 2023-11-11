@@ -1,8 +1,8 @@
-<img src="https://media.licdn.com/dms/image/D5616AQEoamIERjuBNw/profile-displaybackgroundimage-shrink_350_1400/0/1699618942169?e=1704931200&v=beta&t=bNkgA6BYXjvI6l_atMxMlGbQ6NiF_SoI4GBnFBCZemE">
 ---
 permalink: /about me/
 title: "About Me"
 ---
+<img src="https://media.licdn.com/dms/image/D5616AQEoamIERjuBNw/profile-displaybackgroundimage-shrink_350_1400/0/1699618942169?e=1704931200&v=beta&t=bNkgA6BYXjvI6l_atMxMlGbQ6NiF_SoI4GBnFBCZemE">
 - 🌱 I’m an aspiring Data Analyst with a degree in Electronics Engineering from the Technological Institute of the Philippines - Quezon City.
 - 👀 I have an interest in data analytics, automation, machine learning, and data science.
 - 🏆 I recently completed [Google's Professional Data Analytics Specialization.](https://www.coursera.org/account/accomplishments/specialization/certificate/A9QTAS5TVTDP)
